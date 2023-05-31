@@ -1,4 +1,4 @@
-# hangman
+# Kelime Oyunu
 
 1. İlk olarak, `random` modülü import edilir. Bu modül, rastgele bir kelime seçmek için kullanılacaktır.
 
