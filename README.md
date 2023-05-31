@@ -28,8 +28,6 @@
 
 14. Eğer `k_ekle` değişkeni sıfır değilse, kullanıcının tahmini yanlıştır ve `hak` değişkeni bir azaltılır. Yanlış tahmin mesajı ve kalan hak sayısı ekrana yazdırılır.
 
-15. `hak` değişkeni kontrol ed
-
-ilir. Eğer sıfır ise, kullanıcının hakları tükenmiştir ve oyun kaybedilir. Kaybetme mesajı ve doğru kelime ekrana yazdırılır.
+15. `hak` değişkeni kontrol edilir. Eğer sıfır ise, kullanıcının hakları tükenmiştir ve oyun kaybedilir. Kaybetme mesajı ve doğru kelime ekrana yazdırılır.
 
 Bu şekilde, kullanıcıya verilen haklar içinde kelimenin tamamını tahmin etmesi beklenir. Tahmin işlemi, kullanıcının girdiği harfleri kontrol ederek doğru tahminlerde bulunup bulunmadığını denetler ve kullanıcıya geri bildirim sağlar.
